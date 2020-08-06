@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'SpaceMono-Regular';
+   font-display: swap;
+   src: url('SpaceMono-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Hack-Regular';
+   font-display: swap;
+   src: url('Hack-Regular/font.ttf');
+}
+@font-face {
+   font-family: '3270SemiNarrow';
+   font-display: swap;
+   src: url('3270SemiNarrow/font.ttf');
+}
+@font-face {
+   font-family: 'Monofur for Powerline';
+   font-display: swap;
+   src: url('Monofur for Powerline/font.ttf');
+}
