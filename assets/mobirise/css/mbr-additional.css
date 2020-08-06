@@ -753,6 +753,9 @@ section.lazy-placeholder:after {
 }
 .cid-s6Rwm89kAy {
   padding-top: 45px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #149dcc;
+}
+.cid-s6Rwm89kAy .media-container-row .mbr-text P {
+  text-align: center;
 }
